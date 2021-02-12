@@ -9,16 +9,15 @@
 
 ## Overview
 
-This is a Coursera project on EmotionAI that I have completed. The project uses deep neural network with Convolutional Neural Networks (CNN) and Residual Network (ResNet) architectures for learning the keypoints in face image data. These keypoints can be used to learn and predict human emotions. The course certificate link is given below
+This is a Coursera project on EmotionAI that I have completed. The project uses deep neural network (DNN) based on Convolutional Neural Networks (CNN) and Residual Blocks (ResNet) for learning the keypoints in face image data. These keypoints can be used to learn and predict human emotions. The course certificate link is given below
 
 [Coursera Certificate](https://www.coursera.org/account/accomplishments/certificate/KQACF3CSLKL8)
 
 ## The problem
 
-- Restaurant business is one of the most sought-after businesses in Los Angeles (LA). LA, in particular, is an amazing place to dine out owing to its wide variety of international cuisines, the quality of food and the services offered. Given the high demand for quality, a restaurant needs to get several factors right in order to survive here.
-
-- In this brief report, I tried to investigate some of these factors by exploring the restaurants based in the various neighborhoods of Los Angeles (LA). I have tried to keep the discussion general when it comes to the kinds of restaurant and their features and rather focus on the global features like density of restaurants in a region, their frequency and so on.
-
+- Facial Key-Point Detection serves as the basis of Emotional AI applications like detecting customer emotional responses to Ads and Driver Monitering systems.
+- In this project I am using a face image dataset to train a DNN to identify the key facial points which are the x- and y- cordinates of points capturing the positions of eyes, nose and lips.
+- The dataset is very small with only ~2000 images. So, there is a serious need for doing data augmentation.
 - The business direction that I have in mind is actually two-fold. One is directed towards individuals looking for places to eat or even people looking for places to rent based on restaurant types or frequency. The other direction is for corporations/individuals looking to open a new restaurant.
 
 ## Technical Details
