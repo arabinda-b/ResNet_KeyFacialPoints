@@ -3,7 +3,7 @@
 - [Overview](#overview)
 - [The problem](#the-problem)
 - [Technical Details](#technical-details)
-- [Use Cases](#use_cases)
+- [Use Cases](#use-cases)
 - [Credits](#credits)
 
 
