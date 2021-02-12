@@ -9,7 +9,9 @@
 
 ## Overview
 
-Capstone project - Exploring restaurants in Los Angeles and predicting optimal locations for new restaurant setups. For leveraging location data, I use Folium for producing maps indicating venue locations. For the learning part, I use a K-means clustering for segmenting the various neighborhoods according to restaurant densities, types or frequency of occurrence.
+This is a Coursera project on EmotionAI that I have completed. The project uses deep neural network with Convolutional Neural Networks (CNN) and Residual Network (ResNet) architectures for learning the keypoints in face image data. These keypoints can be used to learn and predict human emotions. The course certificate link is given below
+
+[Coursera Certificate](https://www.coursera.org/account/accomplishments/certificate/KQACF3CSLKL8)
 
 ## The problem
 
@@ -37,7 +39,7 @@ The grave details of the project are all mentioned in the [notebook](https://git
 
 ## Use Cases
 
-I prepared a small [presentation](https://github.com/jyotisman-ds/Coursera_Capstone/tree/master/presentations/Final_project_presentation.pdf) to pitch this idea in a commercial setting with an example as well. Do check it out!
+
 
 ## Credits
-A huge shoutout to the Coursera community for hosting the [course](https://www.coursera.org/professional-certificates/ibm-data-science) and to the instructor of this course.
+A huge shoutout to the Coursera community for hosting the [course](https://www.coursera.org/projects/facial-key-point-detection) and to the course instructor Ryan Ahmed.
